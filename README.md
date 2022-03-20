@@ -2,7 +2,7 @@
 #### I'm Mallika. 
 #### aka 'Kru Lookkaew'
 
-- :school:  I’m currently working as Freeland Computer Science Educator.
+- :school:  I’m currently working as **freelance Computer Science Educator**.
 - :green_book:  I’m currently learning How to teach Computer Science for everyone.
 - 🤔  I’m looking for help with any technicle of programmer work.
 - 😄  If don't you mind,  keep in touch with me : [@mallika-siri](https://linkedin.com/in/mallika-siri)
